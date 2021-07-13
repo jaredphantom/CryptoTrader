@@ -9,4 +9,6 @@
 **You must set up your own API key from the Binance site, create a .env file with your API and secret key for the bot to fetch**
 
 **All dependencies are in requirements.txt**
+```
 > pip install -r requirements.txt 
+```
