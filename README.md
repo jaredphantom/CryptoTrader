@@ -4,7 +4,7 @@
 
 **coin array in trader.py contains all the symbols that will be monitored, coinpairs must be in 'xxxUSDT' format**
 
-**Run main.py to start trading, trader.py contains the Trader class with attributes and methods required to interact with Binance API, farm.py will collect data to be used for backtesting with simulate.py
+**Run main.py to start trading, trader.py contains the Trader class with attributes and methods required to interact with Binance API, farm.py will collect data to be used for backtesting with simulate.py**
 
 **Create a folder in the directory called logs and a folder called tests to contain output logs and test data respectively**
 
