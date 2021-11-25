@@ -4,3 +4,5 @@ numpy
 TA-Lib
 websocket
 websocket-client
+matplotlib
+discord
